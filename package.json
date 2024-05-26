@@ -15,10 +15,14 @@
   },
   "dependencies": {
     "@discordjs/voice": "^0.17.0",
+    "@types/express": "^4.17.21",
     "bufferutil": "^4.0.8",
     "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "twilio": "^5.1.0",
     "utf-8-validate": "^6.0.4",
+    "websocket": "^1.0.35",
     "zlib-sync": "^0.1.9"
   }
 }
